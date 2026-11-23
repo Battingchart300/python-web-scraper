@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+quotes.csv
+quotes.json
+.venv/
+venv/
